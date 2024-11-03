@@ -4,7 +4,7 @@ Scripture Source is an open-source project dedicated to making gospel resources 
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the LICENSE file for details.
+This project is licensed under the Apache License 2.0.
 
 ## Project Overview
 
@@ -19,7 +19,7 @@ Scripture Source provides a single, unified API for querying and cross-referenci
 
 ### Repository Structure
 
-- /backend: Rust-based back-end API for data scraping and query handling.
+- /api: Rust-based back-end API for data scraping and query handling.
 - /sdk-rust: Rust SDK for integration with Rust applications.
 - /sdk-js: JavaScript SDK for front-end frameworks and Node.js.
 - /sdk-python: Python SDK for data science and server-side use.
@@ -41,7 +41,7 @@ Scripture Source provides a single, unified API for querying and cross-referenci
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/scripture-source
+git clone https://github.com/kenthejr/scripture-source
 cd scripture-source
 ```
 
