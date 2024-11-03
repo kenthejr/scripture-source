@@ -22,8 +22,8 @@ The Scripture Source API is the core of the Scripture Source project, providing 
 ### Clone the Repository
 
 ```
-git clone https://github.com/your-username/scripture-source
-cd scripture-source/backend
+git clone git@github.com:kenthejr/scripture-source.git
+cd scripture-source/api
 ```
 
 ### Build and Run
